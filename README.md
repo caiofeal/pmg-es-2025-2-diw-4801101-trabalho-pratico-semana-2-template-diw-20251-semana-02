@@ -1,9 +1,9 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Caiop Fernandes de Albuquerque
+- Matricula: 901324
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da Pagina](public/print_curriculo.png)
